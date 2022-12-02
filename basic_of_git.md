@@ -125,10 +125,10 @@ git branch -f main HEAD~3
 *три обратных кавычки без пробелов*
 
 ## Ссылки на ресурсы в порядке полезности
-https://youtu.be/JfpCicDUMKc видосик сначальными данными
-https://vk.com/@vladilen.minin-git-and-github методичка от чувака с видоса
-https://learngitbranching.js.org/?locale=ru_RU&demo= какая то игра про ветки 
-https://habr.com/ru/post/541258/ пояснялки на святом хабре
-https://habr.com/ru/post/542616/ смотри выше
-https://habr.com/ru/company/ruvds/blog/599929/ еще команды гит
+* https://youtu.be/JfpCicDUMKc видосик сначальными данными
+* https://vk.com/@vladilen.minin-git-and-github методичка от чувака с видоса
+* https://learngitbranching.js.org/?locale=ru_RU&demo= какая то игра про ветки 
+* https://habr.com/ru/post/541258/ пояснялки на святом хабре
+* https://habr.com/ru/post/542616/ смотри выше
+* https://habr.com/ru/company/ruvds/blog/599929/ еще команды гит
 
